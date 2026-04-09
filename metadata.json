@@ -1,0 +1,7 @@
+{
+  "name": "⭐️⭐️ - PantheraAgentus",
+  "description": "A god-tier, high-fidelity visual agent builder for AI workflows. Features a deep space theme, glassmorphism UI, infinite canvas with zoom/pan, and node-based logic construction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
